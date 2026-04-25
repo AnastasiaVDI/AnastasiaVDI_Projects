@@ -1,1 +1,13 @@
+Project_Telecommunications
 
+➤ Использовала:
+
+data manipulation: Pandas, NumPy.
+data visualization: Matplotlib, Seaborn.
+ML: scikit-learn (including LogisticRegression, RandomForestClassifier, GradientBoostingClassifier, SVC).
+data preprocessing: RobustScaler, MinMaxScaler, StandardScaler, OneHotEncoder, LabelEncoder, SimpleImputer.
+model evaluation: roc_auc_score, accuracy_score, classification_report, confusion_matrix.
+advanced ML: CatBoostClassifier, XGBClassifier. correlation analysis: phik (phik_matrix, plot_correlation_matrix).
+model interpretation: SHAP. 
+
+➤ Предотвратила снижение выручки оператора связи. Спрогнозировала отток клиентов от оператора связи с помощью ML с точностью более 0.9. Определила и ранжировала услуги по влиянию на лояльность.
