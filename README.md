@@ -21,5 +21,7 @@ TensorFlow
 Keras
 CatBoost, XGBoost*
 
-На связи в телеграм: https://t.me/AnastasiaVDI, 
-Резюме: https://hh.ru/resume/c2cae37aff105e6cd60039ed1f59496b507a78
+На связи в телеграм: *https://t.me/AnastasiaVDI*
+
+
+Резюме: *https://hh.ru/resume/c2cae37aff105e6cd60039ed1f59496b507a78*
