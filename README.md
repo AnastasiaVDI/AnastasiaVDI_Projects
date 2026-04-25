@@ -31,3 +31,14 @@ correlation analysis: phik (phik_matrix, plot_correlation_matrix).
 - model interpretation: SHAP.
 ➤ Предотвратила снижение выручки оператора связи.
 Спрогнозировала отток клиентов от оператора связи с помощью ML с точностью более 0.9. Определила и ранжировала услуги по влиянию на лояльность.
+
+**Project_Employee's_attrition_from_the_company**
+
+➤ Использовала:
+- Предобработка и исследовательский анализ данных: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Phik, Scipy.
+- Предобработка данных для МО (SimpleImputer, LabelEncoder, OneHotEncoder, RobustScaler), EDA (Phik, Seaborn).
+- Построение ML-моделей (GradientBoosting, DecisionTree, LogisticRegression, SVM), Pipeline, RandomizedSearchCV.
+➤ Предотвратила срыв сроков, увеличение стоимости контрактов:
+- предсказала отток сотрудников компании (название скрыто);
+- предсказала уровень удовлетворенности сотрудников и причины уровня удовлетворенности/неудовлетворенности для своевременного принятия мер по мотивации сотрудников.
+
