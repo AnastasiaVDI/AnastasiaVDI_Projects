@@ -10,6 +10,7 @@ _____
 
 Jupyter Notebook, Python, pandas Предобработка данных A/B тесты Matplotlib, Seaborn Математическая статистика Numpy Scikit-learn shap phik Machine Learning Pipeline TensorFlow Keras CatBoost, XGBoost
 
+___
 
 На связи в телеграм: *https://t.me/AnastasiaVDI*
 
