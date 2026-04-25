@@ -5,7 +5,7 @@
 - хочу работать удаленно или с гибридным графиком для удосбтва совмещения рабочей и внерабочей жизней;
 - хочу развиваться и зарабатывать деньги для качественной реализации жизненных целей и потребностей.
 
-Jupyter Notebook, Python,
+*Jupyter Notebook, Python,
 pandas
 Предобработка данных
 A/B тесты
@@ -19,7 +19,7 @@ Machine Learning
 Pipeline
 TensorFlow
 Keras
-CatBoost, XGBoost
+CatBoost, XGBoost*
 
 На связи в телеграм: https://t.me/AnastasiaVDI, 
 Резюме: https://hh.ru/resume/c2cae37aff105e6cd60039ed1f59496b507a78
