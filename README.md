@@ -8,7 +8,7 @@
 •	хочу развиваться и зарабатывать деньги для качественной реализации жизненных целей и потребностей.
 _____
 
-Jupyter Notebook, Python, pandas Предобработка данных A/B тесты Matplotlib, Seaborn Математическая статистика Numpy Scikit-learn shap phik Machine Learning Pipeline TensorFlow Keras CatBoost, XGBoost
+*Jupyter Notebook, Python, pandas Предобработка данных A/B тесты Matplotlib, Seaborn Математическая статистика, Numpy, Scikit-learn, shap, phik, Machine Learning, Pipeline, TensorFlow, Keras CatBoost, XGBoost*
 
 ___
 
